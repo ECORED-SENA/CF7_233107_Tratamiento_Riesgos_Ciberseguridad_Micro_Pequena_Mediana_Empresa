@@ -165,32 +165,121 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Procedimiento de ejecución de pruebas de efectividad.',
+      referencia:
+        'Ministerio de Tecnologías de la Información y Comunicaciones. (2016). Guía metodológica de pruebas de efectividad. ',
+      tipo: 'Otro: Guía técnica ',
+      link:
+        'https://www.mintic.gov.co/gestionti/615/articles-5482_G1_Metodologia_pruebas_efectividad.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Principios de la auditoría',
+      referencia:
+        'Organización Internacional de Normalización (2013). Seguridad de la información, ciberseguridad y protección de la privacidad. (ISO 27001). ISO. ',
+      tipo: 'Norma técnica',
+      link: 'https://www.iso.org/standard/54534.html',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Atributo',
+      significado:
+        'cualquier propiedad o característica que permite distinguir un objeto de otro.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Auditoría',
+      significado:
+        'proceso de verificación y/o validación del cumplimiento de una actividad según lo planeado y las directrices estipuladas.',
+    },
+    {
+      termino: 'Auditoría externa',
+      significado:
+        'auditoría realizada por compañías independientes de la organización o aquellas que son realizadas por personas ajenas a la empresa, contratadas para ello.',
+    },
+    {
+      termino: 'Escala',
+      significado:
+        'rango de valores organizados con los cuales se evalúa un atributo.',
+    },
+    {
+      termino: 'Evidencia',
+      significado: 'información suficiente que respalda alguna acción.',
+    },
+    {
+      termino: 'Indicador',
+      significado:
+        'unidad que permiten medir el desempeño o desarrollo de alguna acción o de algún control.',
+    },
+    {
+      termino: 'Métrica',
+      significado:
+        'conjunto de criterios y condiciones necesarios para medir un control o una acción.',
+    },
+    {
+      termino: 'Modelado de amenazas',
+      significado:
+        'acción que establece la relación entre el atacante y el activo intentando definir el beneficio que puede alcanzar el atacante si logra penetrar el sistema y afectar la información de alguna manera.',
+    },
+    {
+      termino: 'Pruebas de efectividad',
+      significado:
+        'acciones que se enfocan en establecer una línea base del estado de seguridad de la organización, con el fin de facilitar la identificación de la brecha en la implementación del modelo de seguridad.',
+    },
+    {
+      termino: 'SGSI',
+      significado: ' Sistema de Gestión de la Seguridad de la Información.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia: 'Avansis (2020). Auditoría de ciberseguridad. Avansis.',
+      link:
+        'https://www.avansis.es/ciberseguridad/auditoria-de-ciberseguridad/',
+    },
+    {
+      referencia:
+        'Ciberseguridad y Riesgos Digitales (2020). Normas ISO en auditoría informática: Cuáles son las más importantes. Ealde.',
+      link: 'https://www.ealde.es/iso-auditoria-informatica/ ',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Ciberseguridad (2015). ¿Sabes cómo se mide la seguridad de la información en tu empresa? Incibe.',
+      link:
+        'https://www.incibe.es/protege-tu-empresa/blog/mide-seguridad-informacion',
+    },
+    {
+      referencia:
+        'ISO (2020). Evaluación del desempeño en ISO 27001. (ISO 27001). ISO',
+      link: 'https://normaiso27001.es/evaluacion-del-desempeno-en-iso-27001/ ',
+    },
+    {
+      referencia:
+        'ISO (2020). Fase 8 auditoría interna según ISO 27001. (ISO 27001). ISO',
+      link:
+        '. https://normaiso27001.es/fase-8-auditoría-interna-segun-iso-27001/ ',
+    },
+    {
+      referencia:
+        'ISO (2018). Directrices para la auditoría de los sistemas de gestión. (ISO 19011). ISO.',
+      link:
+        'https://normaiso27001.es/fase-8-auditoría-interna-segun-iso-27001/ ',
+    },
+    {
+      referencia:
+        'Ministerio de Tecnologías de la Información y Comunicaciones. (2016). Guía de auditoría. Ministerio de Tecnologías de la Información y Comunicaciones.',
+      link:
+        'https://www.mintic.gov.co/gestionti/615/articles-5482_G15_Auditoria.pdf ',
+    },
+    {
+      referencia:
+        'Ministerio de Tecnologías de la Información y Comunicaciones. (2016). Guía metodológica de pruebas de efectividad. Ministerio de Tecnologías de la Información y Comunicaciones.',
+      link:
+        'https://www.mintic.gov.co/gestionti/615/articles-5482_G1_Metodologia_pruebas_efectividad.pdf',
+    },
+    {
+      referencia:
+        'Organización Internacional de Normalización (ISO, 2013). Tecnología de la información - Técnicas de seguridad - Sistemas de gestión de seguridad de la información - Requisitos.',
+      link: 'https://www.iso.org/standard/54534.html',
     },
   ],
   creditos: {
@@ -204,29 +293,30 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Responsable del equipo de diseño instruccional',
+        cargo: 'Responsable Equipo Desarrollo Curricular',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'Ronald Alexander Vacca Ascanio',
+        cargo: 'Experto Temático',
+        centro: 'Centro - Regional Norte de Santander ',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Diseñador Instruccional',
+        centro:
+          'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander ',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Asesora Metodológica ',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -237,7 +327,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Fabian Zarate',
+        nombre: 'Yerson Fabian Zarate Saavedra',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -265,16 +355,6 @@ export default {
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Responsable del equipo de gestión de repositorio',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],

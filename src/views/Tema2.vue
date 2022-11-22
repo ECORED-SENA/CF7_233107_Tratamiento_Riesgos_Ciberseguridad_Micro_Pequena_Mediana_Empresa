@@ -201,17 +201,20 @@
               p.m-0 De la aplicación procedente, responsable y oportuna de las pruebas, depende en gran medida su efectividad y su potencial aprovechamiento. Las pruebas de efectividad han de realizarse con las acciones mencionadas, siendo cada una de estas, una acción vinculada consecuentemente con las anteriores y/o con las posteriores.
       .col-lg-6
         .bg8.p-4
-          .row.align-items-center
-            .col-lg-12
-              p.m-0.text-white Para ahondar en los aspectos importantes relacionados con pruebas de efectividad y su procedimiento, le recomendamos estudiar la Guía No 1. Guía metodológica de pruebas de efectividad del MinTIC.
-            .col-auto
-                a.boton.color-acento-botones.me-3.mg4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank" type="application/pdf")    
-                  span Descargar
-                  i.fas.fa-file-download
+          .row.justify-content-around.align-items-center
+            .col
+              .row.align-items-center
+                .col.mb-3.mb-sm-0.pt-2
+                  p.m-0.text-white Para ahondar en los aspectos importantes relacionados con pruebas de efectividad y su procedimiento, le recomendamos estudiar la Guía No 1. Guía metodológica de pruebas de efectividad del MinTIC.
+                .col-sm-auto.d-flex.align-items-center
+                  a.boton.color-acento-botones.me-3.mg4(href="https://www.mintic.gov.co/gestionti/615/articles-5482_G1_Metodologia_pruebas_efectividad.pdf" target="_blank")  
+                    span Enlace web
+                    i.fas.fa-link
+
     Separador
     #t_2_5
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.5 Tipos de pruebas de efectividad
+      h2 2.5 Alcance de las pruebas
     .bg10
       .row.mb-3
         .col-lg-11
