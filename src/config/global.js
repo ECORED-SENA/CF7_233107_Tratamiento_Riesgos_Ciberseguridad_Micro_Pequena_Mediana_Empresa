@@ -256,7 +256,7 @@ export default {
       referencia:
         'ISO (2020). Fase 8 auditoría interna según ISO 27001. (ISO 27001). ISO',
       link:
-        '. https://normaiso27001.es/fase-8-auditoría-interna-segun-iso-27001/ ',
+        'https://normaiso27001.es/fase-8-auditoría-interna-segun-iso-27001/ ',
     },
     {
       referencia:
@@ -345,8 +345,8 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
+        cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },

@@ -231,7 +231,7 @@
     Separador
     #t_1_6
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.6 Definiciones y elementos fundamentales de la auditoría
+      h2 1.6 Fases de la auditoría
     .row.mb-3.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12
         .row
