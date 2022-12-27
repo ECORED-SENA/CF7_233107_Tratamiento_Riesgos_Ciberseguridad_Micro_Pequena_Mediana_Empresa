@@ -65,8 +65,9 @@
     p.mb-5 A continuación, explore el recurso didáctico con el que le #[span.txt-c1  presentamos las etapas del procedimiento de las pruebas], según lo estipulado por la Guía metodológica de pruebas de efectividad, del MINTIC:  
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/SZD5lnzXAtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
+        
     Separador
     #t_2_2
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")

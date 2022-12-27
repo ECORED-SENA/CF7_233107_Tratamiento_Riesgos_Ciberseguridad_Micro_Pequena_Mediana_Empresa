@@ -159,8 +159,8 @@
           img.img-t(src='@/assets/curso/tema1/img15.png', style="width: 320px").m-auto
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
-
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/_XH1XmhtXIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+       
     Separador
     #t_1_4
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -181,7 +181,8 @@
         p Le invitamos a revisar con especial atención las consideraciones, sobre la auditoría, contenidas en el siguiente recurso:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/NUL5Hc5nbYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+
     Separador
     #t_1_5
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
